@@ -1,0 +1,67 @@
+[
+    {
+        "notificacao": "registo aluno", 
+        "numero": "pg53922",
+        "email": "pg53922@alunos.uminho.pt",
+        "nome": "Joao Paulo",
+        "lida": false 
+    },
+
+    {
+        "notificacao": "inscricao prova", 
+        "numero": "pg54232",
+        "email": "pg54232@alunos.uminho.pt",
+        "nome": "Sergio Costa",
+        "lida": false,
+        "prova": "RAS-2223-1",
+        "sala": "0.08",
+        "data": "20-01-2024",
+        "hora": "10:00"
+    },
+    
+    {
+        "notificacao": "inscricao prova",
+        "numero": "a81215",
+        "email": "a81215@alunos.uminho.pt",
+        "nome": "Miguel Passinhas",
+        "lida": false,
+        "prova": "RAS-2223-1",
+        "sala": "0.04",
+        "data": "20-01-2024",
+        "hora": "15:00"
+    },
+    {
+        "notificacao": "sala indisponivel",
+        "numero": "a97223",
+        "email": "a97223@alunos.uminho.pt",
+        "nome": "Joao Paulo",
+        "lida": false,
+        "prova":"RAS-2223-2",
+        "sala":"0.04",
+        "data": "20-01-2024",
+        "hora": "15:00"
+    },
+    {
+        "notificacao": "nota",
+        "numero": "a97223",
+        "email": "a97223@alunos.uminho.pt",
+        "nome": "Joao Paulo",
+        "lida": false,
+        "prova":"RAS-2223-2"
+    },
+    {
+        "notificacao": "registo docente",
+        "numero": "a81215",
+        "email": "a81215@alunos.uminho.pt",
+        "nome": "Miguel Passinhas",
+        "lida": false
+    },
+    {
+        "notificacao": "nota",
+        "numero": "a97223",
+        "email": "a97223@alunos.uminho.pt",
+        "nome": "Joao Paulo",
+        "lida": false,
+        "prova":"RAS-2223-2"
+    }
+]

@@ -1,0 +1,36 @@
+.my-component-container {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    height: 100vh;
+  }
+  
+  .content {
+    padding: 20px;
+    max-width: 50%;
+  }
+  
+  .slogan-image-container {
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+  }
+  
+  .slogan {
+    margin-right: 150px;
+    color:#6688b8;
+    font-size: 2.5rem;
+    transform: translateY(-80%);
+  }
+  
+  .slogan-image-container img {
+    max-width: 600px; 
+    border-radius: 50%;
+  }
+
+  h1 {
+    text-shadow:
+      1px 1px 1px hwb(217 2% 73%),
+      2px 2px 1px hwb(217 33% 32%);
+  }
